@@ -4,6 +4,12 @@ Nacio el 7 de febrero de 1985 en la ciudad de armenia
 
 Actualmente vive en la ciudad de circasia.
 
+Master 1
+
+Master 2
+
+experimento 2
+
 Soy ingeniero de sistemas y estoy aprendiendo sobre git
 
 Estoy realizando el semillero de programacion de Home Devs
