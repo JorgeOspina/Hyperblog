@@ -6,6 +6,8 @@ Actualmente vive en la ciudad de circasia.
 
 Master 1
 
+Master 2
+
 Soy ingeniero de sistemas y estoy aprendiendo sobre git
 
 Estoy realizando el semillero de programacion de Home Devs
